@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Project-ContenTerra/static/css/main.afb88383.css",
+    "main.js": "/Project-ContenTerra/static/js/main.137e7fc6.js",
+    "static/js/453.4d07c29d.chunk.js": "/Project-ContenTerra/static/js/453.4d07c29d.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Project-ContenTerra/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Project-ContenTerra/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/Project-ContenTerra/index.html",
+    "main.afb88383.css.map": "/Project-ContenTerra/static/css/main.afb88383.css.map",
+    "main.137e7fc6.js.map": "/Project-ContenTerra/static/js/main.137e7fc6.js.map",
+    "453.4d07c29d.chunk.js.map": "/Project-ContenTerra/static/js/453.4d07c29d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afb88383.css",
+    "static/js/main.137e7fc6.js"
+  ]
+}
